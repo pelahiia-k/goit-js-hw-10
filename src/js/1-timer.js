@@ -83,7 +83,7 @@ function updateCountdown() {
       seconds: 0,
     });
 
-    dateInput.disabled = false;
+    input.disabled = false;
     startBtn.disabled = true;
 
     return;
